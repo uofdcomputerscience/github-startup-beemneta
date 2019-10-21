@@ -2,9 +2,9 @@
 
 All that you're required to do for this assignment is to edit this README with a bit of information:
 
-* Your name
-* Your favorite programming language
-* Your favorite text editor
+* Your name    Beemnet Alemayehu
+* Your favorite programming language   Python
+* Your favorite text editor  Python IDE
 
 Also, upload a picture of you to the repo (to help me learn your name).
 
